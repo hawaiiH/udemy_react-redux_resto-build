@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "10af0a4255fce6b2e1568baa5164011a",
+    "revision": "ce5cf84b7c7e18b8b9797183d1527b35",
     "url": "/udemy_react-redux_resto-build/index.html"
   },
   {
-    "revision": "4b26252b7c8abc3a7100",
+    "revision": "f3612bfd449db95a7bc5",
     "url": "/udemy_react-redux_resto-build/static/css/main.205a1715.chunk.css"
   },
   {
-    "revision": "214187ecffdbaaf596d7",
-    "url": "/udemy_react-redux_resto-build/static/js/2.3e574817.chunk.js"
+    "revision": "fc838b5d943139c5717e",
+    "url": "/udemy_react-redux_resto-build/static/js/2.88653a0b.chunk.js"
   },
   {
-    "revision": "4b26252b7c8abc3a7100",
-    "url": "/udemy_react-redux_resto-build/static/js/main.52be4a4d.chunk.js"
+    "revision": "f3612bfd449db95a7bc5",
+    "url": "/udemy_react-redux_resto-build/static/js/main.547fa271.chunk.js"
   },
   {
     "revision": "ac4e6f9580f1d3280c47",
