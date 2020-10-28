@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "54120db02a0aa82aef2eca65f2604136",
+    "revision": "10af0a4255fce6b2e1568baa5164011a",
     "url": "/udemy_react-redux_resto-build/index.html"
   },
   {
-    "revision": "4b45966e317b4622f553",
+    "revision": "4b26252b7c8abc3a7100",
     "url": "/udemy_react-redux_resto-build/static/css/main.205a1715.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/udemy_react-redux_resto-build/static/js/2.3e574817.chunk.js"
   },
   {
-    "revision": "4b45966e317b4622f553",
-    "url": "/udemy_react-redux_resto-build/static/js/main.22dafadb.chunk.js"
+    "revision": "4b26252b7c8abc3a7100",
+    "url": "/udemy_react-redux_resto-build/static/js/main.52be4a4d.chunk.js"
   },
   {
     "revision": "ac4e6f9580f1d3280c47",
